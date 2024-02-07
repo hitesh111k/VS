@@ -1,0 +1,13 @@
+.footer{
+    position:fixed;
+    color: aqua;
+    bottom:0;
+    width: 100%;
+    background-color: gray;
+    line-height: 3;
+    text-align: center;
+}
+body{
+    background-color: blueviolet;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
